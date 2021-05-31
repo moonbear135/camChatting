@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931487611423",
+    "project_id": "camchatting-8075e",
+    "storage_bucket": "camchatting-8075e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931487611423:android:8823081b8ebcd6041ff32a",
+        "android_client_info": {
+          "package_name": "com.android.example.camchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931487611423-tnennv35uu231202t8nb6bi5s002laq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vXE_FOSzaJv-keUxAt4ZT2uUOagMpYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931487611423-tnennv35uu231202t8nb6bi5s002laq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
